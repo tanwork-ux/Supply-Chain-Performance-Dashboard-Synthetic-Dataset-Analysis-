@@ -10,6 +10,10 @@ Meskipun dashboard ini berhasil memvisualisasikan metrik operasional secara inte
 
 ## Dashboard and Tooltip Preview
 ![Supply Chain Dashboard](visuals/Dashboard_Final.png)
-![Tooltip](visuals/Tooltip.png)
+![Supply Chain Dashboard](visuals/Jakarta.png)
 ![](visuals/Tooltip_HomeDecor.png)
-![](visuals/Tooltip_Electronic.png)
+
+### 📊 Key Visualizations
+* **Main Dashboard**: [View Image](./visuals/dashboard_Final.png)
+* **Advanced Tooltip Analysis**: [View Image](./visuals/tooltip.png)
+* **Full Gallery**: [Browse Folder](./visuals/)
