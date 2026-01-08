@@ -10,4 +10,6 @@ Meskipun dashboard ini berhasil memvisualisasikan metrik operasional secara inte
 
 ## Dashboard and Tooltip Preview
 ![Supply Chain Dashboard](visuals/Dashboard_Final.png)
-![Tooltip](visuals/Tooltip.png)[](visuals/Tooltip_HomeDecor.png)[](visuals/Tooltip_Electronic.png)
+![Tooltip](visuals/Tooltip.png)
+![](visuals/Tooltip_HomeDecor.png)
+![](visuals/Tooltip_Electronic.png)
