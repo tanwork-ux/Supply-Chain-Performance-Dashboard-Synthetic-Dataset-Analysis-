@@ -8,6 +8,8 @@ Meskipun dashboard ini berhasil memvisualisasikan metrik operasional secara inte
 
     Root Cause Limitation: Dikarenakan sifat datanya yang sintetis dan memiliki sebaran yang terlalu merata (berdasarkan df.describe), terdapat batasan dalam menentukan akar penyebab (root cause) dari anomali yang ditemukan secara definitif.
 
+Namun apabila dataset ini adalah data asli, dan saya menemukan kasus serupa, saya akan melakukan cross check data dan berusaha mendapatkan klarifikasi untuk memastikan akar masalahnya, apakah masalahnya terletak pada salah satu pipeline data atau bahkan ekosistem data itu sendiri, atau, memang faktanya di lapangan terjadi hal hal yang perlu di usut lebih dalam untuk bisa merumuskan solusinya
+
 ## Dashboard and Tooltip Preview
 ![Supply Chain Dashboard](visuals/Dashboard_Final.png)
 ![Supply Chain Dashboard](visuals/Jakarta.png)
